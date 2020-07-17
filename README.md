@@ -1,1 +1,1 @@
-# The Sparkx Foundation - Landing Page
+# The Sparkx Foundation
